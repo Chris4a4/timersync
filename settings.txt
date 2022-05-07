@@ -1,0 +1,8 @@
+IP address of host:
+108.44.209.17
+Number of timers:
+5
+Updates per second:
+20
+Base port:
+16834
